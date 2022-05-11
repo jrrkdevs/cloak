@@ -1,7 +1,7 @@
 var cloakwindow = `new Nightmare({
 "title": "cloak",
 "type": "js",
-"js": "https://cdn.jsdelivr.net/gh/FogNetwork/Vapor/app.min.js",
+"js": "https://cdn.jsdelivr.net/gh/jrrkdevs/cloak@main/app.js",
 "width": 800,
 "height": 600,
 "theme": "dark"
